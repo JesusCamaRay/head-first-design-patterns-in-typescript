@@ -1,0 +1,17 @@
+{
+  "name": "head-first-design-patterns-in-typescript",
+  "version": "1.0.0",
+  "description": "These are the examples found in the book Head First Design patterns which are written in typescript instead of Java.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "decorator": "ts-node decorator-pattern-coffee-shop/index.ts",
+    "strategy": "ts-node strategy-pattern-duck-simulator/index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "author": "",
+  "license": "ISC"
+}
