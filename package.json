@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "decorator": "ts-node decorator-pattern-coffee-shop/index.ts",
-    "strategy": "ts-node strategy-pattern-duck-simulator/index.ts"
+    "strategy": "ts-node strategy-pattern-duck-simulator/index.ts",
+    "abstract-factory": "ts-node abstract-factory/index.ts"
   },
   "dependencies": {
     "ts-node": "^10.9.1",
